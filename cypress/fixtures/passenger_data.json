@@ -1,27 +1,41 @@
 {
-  "TRAIN_NO": "13185",
-  "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAIN_NO": "20661",
+  "TRAIN_COACH": "CC",
+  "TRAVEL_DATE": "01/02/2025",
+  "SOURCE_STATION": "SBC",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
-  "TATKAL": true,
+  "DESTINATION_STATION": "UBL",
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "nikhilshivakumar1234@okicici",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "Prakash N",
+      "AGE": 42,
       "GENDER": "Male",
       "SEAT": "No Preference",
-      "FOOD": "No Food"
+      "FOOD": "Veg"
     },
     {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "Gangadaraiah",
+      "AGE": 40,
+      "GENDER": "Male",
       "SEAT": "No Preference",
-      "FOOD": "No Food"
+      "FOOD": "Veg"
+    },
+    {
+      "NAME": "Muniraja H N",
+      "AGE": 41,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "Veg"
+    },
+    {
+      "NAME": "Palemsubbarayudu",
+      "AGE": 48,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "Veg"
     }
   ],
   "__valid_coaches__": "SL | 2A | 3A | 3E | 1A | CC | EC | 2S",
