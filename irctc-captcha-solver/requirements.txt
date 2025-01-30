@@ -3,4 +3,3 @@ pillow
 easyocr==1.7.1
 numpy
 flask
-irctc-captcha-solver/app-server.py
